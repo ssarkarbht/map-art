@@ -1,0 +1,13 @@
+numpy
+scipy
+matplotlib
+cv2
+pillow
+sklearn
+shapely
+pandas
+geopandas
+networkx
+osmnx
+potrace
+pytorch
