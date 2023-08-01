@@ -1,5 +1,6 @@
+## [Project Repository](https://github.com/ssarkarbht/map-art) 
 ## Example Routes
-Here's my sample map routes created from images!
+Here's some sample map routes created from images!
 <div style="display: flex; width:1000px; height">
   <img src="dataset/examples/58ddcecd83.jpg" alt="Image 1" style="width: 25%; padding: 2px;">
   <img src="dataset/examples/810c695037.jpg" alt="Image 2" style="width: 25%; padding: 2px;">
