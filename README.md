@@ -13,3 +13,6 @@ Original Image             |  Edge Heatmap with Boundary
 <div style="display: flex; justify-content: center;">
   <img src="resources/dolphin_tracking.gif" alt="Your GIF">
 </div>
+
+### Example Routes (pending optimization and cleaning)
+![](resources/example_route.png)
