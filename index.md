@@ -1,3 +1,4 @@
+## [Project Summary](https://www.linkedin.com/pulse/imprinting-images-map-sourav-sarkar-ph-d-)
 ## [Project Repository](https://github.com/ssarkarbht/map-art) 
 ## Example Routes
 Here's some sample map routes created from images!
